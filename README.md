@@ -59,5 +59,3 @@ In a world where digital presence is the strongest business card, I help busines
 - 📧 **Email:** [towfiqulislam017399@gmail.com](mailto:towfiqulislam017399@gmail.com)
 - 🔗 **LinkedIn:** [Towfiqul Islam](https://www.linkedin.com/in/towfiqul-islam1)
 - 🌐 **GitHub Profile:** [towfiq-dev](https://github.com/towfiq-dev)
-
-*"Whether you need a functional MVP or a feature-rich web app, let’s build something impactful together."*
