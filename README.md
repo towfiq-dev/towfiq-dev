@@ -1,5 +1,9 @@
 <div align="center">
-  <img src="https://i.ibb.co.com/QsmJwRg/Towfiqul-Islam-Photo.jpg" alt="Towfiqul Islam - Full Stack Developer Banner" width="50%" style="border-radius: 15px; box-shadow: 0 10px 30px rgba(0,0,0,0.3);"/>
+  <img src="https://i.ibb.co.com/QsmJwRg/Towfiqul-Islam-Photo.jpg" 
+   alt="Towfiqul Islam" 
+   width="250" 
+   height="250" 
+   style="border-radius: 50%; border: 4px solid #0A66C2; box-shadow: 0 10px 30px rgba(0,0,0,0.2);" />
 </div>
 
 <br>
