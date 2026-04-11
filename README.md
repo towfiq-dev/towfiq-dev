@@ -3,8 +3,8 @@
     <tr>
       <td align="center">
         <img src="https://i.ibb.co.com/QsmJwRg/Towfiqul-Islam-Photo.jpg" 
-             width="250" 
-             height="250" 
+             width="300" 
+             height="350" 
              style="border-radius: 50%; display: block; border: 4px solid #0A66C2;" 
              alt="Towfiqul Islam">
       </td>
