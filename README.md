@@ -145,6 +145,10 @@
   <img src="https://streak-stats.demolab.com?user=towfiq-dev&theme=tokyonight&hide_border=true" width="70%" />
 </div>
 
+<div align="center">
+  <img src="https://metrics.lecoq.io/towfiq-dev?base=false&plugin_followup=1&plugin_followup_sections=user" alt="GitHub Activity Radar" width="70%" />
+</div>
+
 ---
 
 ## 🌐 Connect With Me  
