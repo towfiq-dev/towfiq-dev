@@ -1,42 +1,34 @@
-<div align="center">
-
-<!-- Animated Banner -->
+  <div align="center">
+  <!-- Animated Banner -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,50:6C63FF,100:00D4FF&height=200&section=header&text=Towfiqul%20Islam&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20MERN%20Developer%20%7C%20React%20%26%20Next.js%20Specialist&descAlignY=58&descSize=18&animation=fadeIn" />
+</br>
+  <table>
+    <tr>
+      <td align="center">
+        <!-- Profile Photo -->
+<img src="https://towfiq-mern-stack-developer.vercel.app/towfiq-profile.jpg"
+     width="250"
+     height="300"
+     alt="Towfiqul Islam"/>
+      </td>
+    </tr>
+  </table>
+</div>
 
-<!-- Profile Photo -->
-<br/>
-<img src="https://i.ibb.co.com/QsmJwRg/Towfiqul-Islam-Photo.jpg"
-     width="160"
-     style="border-radius:50%; border: 4px solid #0A66C2;"
-     alt="Towfiqul Islam — Full Stack MERN Developer"/>
-<br/><br/>
+<br>
 
-<!-- Typing Animation -->
-<a href="https://towfiq-mern-stack-developer.vercel.app">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=1000&color=0A66C2&center=true&vCenter=true&width=750&lines=👋+Hello%2C+I'm+Towfiqul+Islam;🚀+Full+Stack+MERN+Developer;⚡+React+%26+Next.js+Specialist;🌐+Building+Scalable+Web+Applications;💡+Turning+Ideas+into+Digital+Reality" alt="Typing SVG" />
-</a>
-
-<br/>
-
-<!-- Badges -->
-<p>
-  <a href="https://github.com/towfiq-dev">
-    <img src="https://img.shields.io/github/followers/towfiq-dev?label=GitHub+Followers&style=for-the-badge&logo=github&color=0A66C2&labelColor=0d1117" />
-  </a>
-  <a href="https://www.linkedin.com/in/towfiqul-islam1">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" />
-  </a>
-  <a href="https://towfiq-mern-stack-developer.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-Live-00D4FF?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0d1117" />
-  </a>
-  <a href="mailto:towfiqulislam017399@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Hire Me-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" />
-  </a>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=700&size=32&duration=3000&pause=1000&color=0A66C2&center=true&vCenter=true&width=700&lines=👋+Hey+there,+I'm+Towfiqul+Islam;🚀+Full+Stack+MERN+Developer;💻+Building+Scalable+Web+Apps;✨+Turning+Ideas+into+Experiences" alt="Typing SVG" />
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=towfiq-dev&style=for-the-badge&color=0A66C2&label=PROFILE+VIEWS" />
+<h3 align="center">🚀 Full Stack Developer | Building Scalable Web Apps MERN Stack | Frontend: React, Next.js, Tailwind CSS | Backend: Node.js, Express.js, MongoDB & MYSQL | Web Architecture Enthusiast</h3>
 
-</div>
+<p align="center">
+  <a href="https://github.com/towfiq-dev"><img src="https://img.shields.io/github/followers/towfiq-dev?label=Followers&style=social" alt="GitHub Followers"></a>
+  <a href="https://www.linkedin.com/in/towfiqul-islam1"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin" alt="LinkedIn"></a>
+  <a href="https://x.com/towfiqulislam4893"><img src="https://img.shields.io/badge/-Twitter-black?style=flat&logo=x" alt="Twitter"></a>
+  <a href="mailto:towfiqulislam017399@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"></a>
+</p>
 
 ---
 
@@ -197,23 +189,27 @@ const towfiqulIslam = {
 
 ---
 
-## 🏆 Certifications
+## 🏆 Certifications & Achievements  
+- 🖋️ **Complete Web Development** — Programming Hero  
 
 <div align="center">
-<table>
-  <tr>
-    <td align="center" width="50%">
-      <img src="https://img.shields.io/badge/🎓 Complete Web Development-6C63FF?style=for-the-badge" /><br/><br/>
-      <b>Programming Hero</b><br/>
-      <sub>Full Stack & MERN Stack — Score: 60/60 🏅</sub>
-    </td>
-    <td align="center" width="50%">
-      <img src="https://img.shields.io/badge/💻 Computer & ICT Application-0A66C2?style=for-the-badge" /><br/><br/>
-      <b>Department of Youth Development (DYD)</b><br/>
-      <sub>6-Month Professional Program — Score: 60/60 🏅</sub>
-    </td>
-  </tr>
-</table>
+  <table>
+    <tr>
+      <td align="center"><img src="https://img.shields.io/badge/📖_Course_Details-6C63FF?style=for-the-badge"/><br><b>Programming Hero</b><br>Full Stack & MERN Stack</td>
+      <td align="center"><img src="https://img.shields.io/badge/🏅_Top_Performer-FFD700?style=for-the-badge"/><br><b>Average number of all projects</b><br>Score: 60/60</td>
+    </tr>
+  </table>
+</div>
+
+- 🖋️ **Computer Operation & ICT Application Certified** — Department of Youth Development, DYD (6 month)
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center"><img src="https://img.shields.io/badge/📖_Course_Details-6C63FF?style=for-the-badge"/><br><b>Department of Youth Development, DYD</b><br>Computer Operation & ICT Application Certified</td>
+      <td align="center"><img src="https://img.shields.io/badge/🏅_Top_Performer-FFD700?style=for-the-badge"/><br><b>Average number of all projects</b><br>Score: 60/60</td>
+    </tr>
+  </table>
 </div>
 
 ---
@@ -231,6 +227,10 @@ const towfiqulIslam = {
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=towfiq-dev&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="70%" />
+</div>
+
+<div align="center">
+  <img src="https://metrics.lecoq.io/towfiq-dev?base=false&plugin_followup=1&plugin_followup_sections=user" alt="GitHub Activity Radar" width="70%" />
 </div>
 
 ---
@@ -260,5 +260,4 @@ const towfiqulIslam = {
 <br/><br/>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4FF,50:6C63FF,100:0A66C2&height=120&section=footer&text=Open%20to%20Work%20%7C%20Let's%20Build%20Something%20Amazing&fontSize=18&fontColor=ffffff&fontAlignY=65&animation=fadeIn" />
-
 </div>
