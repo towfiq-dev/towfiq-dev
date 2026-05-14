@@ -1,6 +1,6 @@
   <div align="center">
   <!-- Animated Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,50:6C63FF,100:00D4FF&height=200&section=header&text=Towfiqul%20Islam&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20MERN%20Developer%20%7C%20React%20%26%20Next.js%20Specialist&descAlignY=58&descSize=18&animation=fadeIn" />
+<!-- <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,50:6C63FF,100:00D4FF&height=200&section=header&text=Towfiqul%20Islam&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20MERN%20Developer%20%7C%20React%20%26%20Next.js%20Specialist&descAlignY=58&descSize=18&animation=fadeIn" /> -->
 </br>
         <!-- Profile Photo -->
 <img src="https://towfiq-mern-stack-developer.vercel.app/towfiq-profile.jpg"
