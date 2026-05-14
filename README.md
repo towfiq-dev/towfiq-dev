@@ -170,7 +170,7 @@ const towfiqulIslam = {
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
         <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
       </p>
-      <p><i>Highlights dynamic JS logic and responsive UI/UX design.</i></p>
+     <a href="https://towfiq-dev.github.io/Payooo-mobile-bank">🔗 Live Demo</a>
     </td>
   </tr>
 </table>
