@@ -19,6 +19,8 @@
 
 <p align="center">
   <a href="https://github.com/towfiq-dev"><img src="https://img.shields.io/github/followers/towfiq-dev?label=Followers&style=social" alt="GitHub Followers"></a>
+  <a href="https://towfiq-mern-stack-developer.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/towfiqul-islam1"><img src="https://img.shields.io/badge/-Resume-green?style=flat&logo=Resume" alt="Resume"></a>
   <a href="https://www.linkedin.com/in/towfiqul-islam1"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin" alt="LinkedIn"></a>
   <a href="https://x.com/towfiqulislam4893"><img src="https://img.shields.io/badge/-Twitter-black?style=flat&logo=x" alt="Twitter"></a>
   <a href="mailto:towfiqulislam017399@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"></a>
@@ -132,36 +134,36 @@ const towfiqulIslam = {
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h3>🏠 TilesPro — Ceramic Gallery</h3>
-      <p>A high-end digital showcase for the ceramic industry with advanced filtering, product management, and a seamless user experience.</p>
+      <h3>🏠 SkillSwap - Freelancing Marketplace Platform</h3>
+      <p>SkillSwap is a full-featured freelancing marketplace that connects skilled professionals with clients who need work done. Inspired by platforms like Fiverr and Upwork, it enables clients to post tasks, review proposals, and pay freelancers securely — all within a single, intuitive platform. With role-based dashboards for clients, freelancers, and admins, SkillSwap delivers a transparent, efficient, and trustworthy freelancing experience.</p>
       <p>
         <img src="https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js" />
         <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
         <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
       </p>
-      <a href="https://tiles-gallery-app.vercel.app">🔗 Live Demo</a>
+      <a href="https://skill-swap-frontend-server.vercel.app">🔗 Live Demo</a>
     </td>
     <td width="50%" valign="top">
-      <h3>🛒 DigiTools — Digital Marketplace</h3>
-      <p>A premium marketplace for digital tools & AI assets with complex cart logic, dynamic pricing, and a secure checkout experience.</p>
+      <h3>🛒 Wanderlust - Premium Travel & Tourism Platform</h3>
+      <p>Wanderlust is an immersive travel and destination management platform crafted for modern explorers. It offers seamless hotel and tour booking, intelligent destination filtering, dynamic search capabilities, and user-driven testimonials. Designed with a stunning user experience, it simplifies travel planning and bridges the gap between travelers and their dream destinations.</p>
       <p>
         <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
         <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
         <img src="https://img.shields.io/badge/Framer Motion-EF008F?style=flat-square&logo=framer&logoColor=white" />
       </p>
-      <a href="https://digitoolls-platfrom.netlify.app">🔗 Live Demo</a>
+      <a href="https://wanderlust-express-js.vercel.app">🔗 Live Demo</a>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>👥 FriendShip Management System</h3>
-      <p>A personal relationship management platform to track connections, interactions, and relationship health — built with a clean, intuitive UI.</p>
+      <h3>👥 CarePulse - Next-Generation Hospital Management & Appointment System</h3>
+      <p>CarePulse is a comprehensive, production-ready healthcare management platform built to streamline patient-doctor interactions. It features an advanced appointment scheduling engine, interactive specialist search with multi-criteria filtering, and an intuitive hospital dashboard. Designed with absolute pixel-perfect precision, it ensures a friction-free experience for patients seeking elite medical assistance.</p>
       <p>
         <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
         <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
         <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
       </p>
-      <a href="https://friendship-management.netlify.app">🔗 Live Demo</a>
+      <a href="https://doctor-appointment-manager-one.vercel.app">🔗 Live Demo</a>
     </td>
     <td width="50%" valign="top">
       <h3>💰 Payoo — Mobile Banking UI</h3>
