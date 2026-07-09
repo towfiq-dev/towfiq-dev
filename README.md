@@ -47,11 +47,9 @@ const towfiqulIslam = {
 
 <div align="center">
 
-| 15+ | 19+ | 2+ |
-|:---:|:---:|:---:|
-| Projects Completed | Tech Stack | Certifications |
-
-<sub>Live GitHub contribution stats are shown in the Analytics section below — they update automatically, so no fixed number is hardcoded here.</sub>
+| 15+ | 19+ | 1000+ | 2+ |
+|:---:|:---:|:---:|:---:|
+| Projects Completed | Tech Stack | GitHub Contributions | Certifications |
 
 </div>
 
