@@ -27,7 +27,7 @@
 
 ## 👋 About Me
 
-I'm a **Full Stack MERN Developer** based in Dhaka, Bangladesh, focused on building clean, scalable web applications from pixel-perfect frontends down to well-structured backend APIs. I like taking a product all the way — from database schema to the final animation on the button.
+I'm a **Full Stack MERN Developer**, dedicated to building clean, scalable, and production-ready web applications. My work spans the entire development lifecycle — from architecting well-structured databases and secure backend APIs with Node.js and Express, to crafting pixel-perfect, responsive frontends with React and Next.js. I approach every project with a product mindset rather than just a code mindset, paying close attention to performance, maintainability, and the small details that shape a great user experience — right down to the final animation on a button. Whether I'm designing a data model, securing an authentication flow, or fine-tuning a UI interaction, my goal is always the same: to turn ideas into reliable, real-world digital products.
 
 ```javascript
 const towfiqulIslam = {
