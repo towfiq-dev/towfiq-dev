@@ -2,7 +2,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,50:6C63FF,100:00D4FF&height=180&section=header&text=Towfiqul%20Islam&fontSize=52&fontColor=ffffff&fontAlignY=42&desc=Full%20Stack%20MERN%20Developer&descAlignY=62&descSize=18&animation=fadeIn" />
 
-<img src="https://towfiq-mern-stack-developer.vercel.app/towfiq-profile.jpg" width="150" height="150" style="border-radius:50%;object-fit:cover;" alt="Towfiqul Islam"/>
+<img src="https://towfiq-mern-stack-developer.vercel.app/towfiq-profile.jpg" width="250" height="300" style="border-radius:50%;object-fit:cover;" alt="Towfiqul Islam"/>
 
 <br>
 
@@ -47,7 +47,7 @@ const towfiqulIslam = {
 
 <div align="center">
 
-| 15+ | 19+ | 2 |
+| 15+ | 19+ | 2+ |
 |:---:|:---:|:---:|
 | Projects Completed | Tech Stack | Certifications |
 
@@ -268,7 +268,7 @@ Programming Hero — Full Stack & MERN Stack<br>
 </td>
 <td width="50%" valign="top">
 <b>🖥️ Computer Basic & ICT Application</b><br>
-Department of Youth Development, Ministry of Youth and Sports<br>
+Department of Youth Development (DYD)<br>
 <sub>Credential ID: 197464 · Issued December 2025</sub><br><br>
 <a href="https://jubodatabase.org/public_student_view.php?id=8785"><img src="https://img.shields.io/badge/View_Credential-10b981?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
 </td>
