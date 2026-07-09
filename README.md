@@ -262,8 +262,8 @@ Dynamic, live-updating features like chat systems or notifications using WebSock
 <tr>
 <td width="50%" valign="top">
 <b>💻 Complete Web Development</b><br>
-Programming Hero — Full Stack & MERN Stack<br>
-<sub>Credential ID: WEB13-1086 · Issued July 2026</sub><br><br>
+Programming Hero<br>
+<sub>Full Stack & MERN Stack · Credential ID: WEB13-1086 · Issued July 2026</sub><br><br>
 <a href="https://drive.google.com/file/d/1CT2S2c6owRjeDj2nX0rzCRN-jBZXEXS-/view"><img src="https://img.shields.io/badge/View_Credential-10b981?style=for-the-badge&logo=googledrive&logoColor=white" /></a>
 </td>
 <td width="50%" valign="top">
