@@ -18,7 +18,7 @@
   <a href="https://towfiq-mern-stack-developer.vercel.app"><img src="https://img.shields.io/badge/Portfolio-0A66C2?style=for-the-badge&logo=vercel&logoColor=white" /></a>
   <a href="https://drive.google.com/file/d/1xGmSvv5_81TuypAt9QA7wlt5grj3vLU5/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-10b981?style=for-the-badge&logo=googledrive&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/towfiqul-islam1"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://x.com/towfiqul6185"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
+  <a href="https://x.com/towfiqul6185"><img src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
 </p>
 
 </div>
