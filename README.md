@@ -286,19 +286,23 @@ Department of Youth Development, Ministry of Youth and Sports)<br>
 
 <br>
 
-## 📊 GitHub Analytics
+## 📊 GitHub Stats
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=towfiq-dev&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&count_private=true" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=towfiq-dev&layout=compact&theme=tokyonight&hide_border=true" width="41%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=towfiq-dev&theme=tokyonight" width="100%"/>
 </div>
 
 <div align="center">
-<img src="https://streak-stats.demolab.com?user=towfiq-dev&theme=tokyonight&hide_border=true&count_private=true&date_format=M%20j%5B%2C%20Y%5D" width="70%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=towfiq-dev&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=towfiq-dev&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
 </div>
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=towfiq-dev&theme=tokyonight&no-frame=true&row=1&column=6" width="90%" />
+  <img src="https://streak-stats.demolab.com?user=towfiq-dev&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="70%" />
+</div>
+
+<div align="center">
+  <img src="https://metrics.lecoq.io/towfiq-dev?base=false&plugin_followup=1&plugin_followup_sections=user" alt="GitHub Activity Radar" width="70%" />
 </div>
 
 <br>
