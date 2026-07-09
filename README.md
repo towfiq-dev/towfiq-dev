@@ -192,7 +192,7 @@ Dynamic, live-updating features like chat systems or notifications using WebSock
 <td width="50%" valign="top">
 <h3>🛒 Wanderlust</h3>
 <i>Premium Travel & Tourism Platform</i>
-<p>An immersive travel platform with hotel/tour booking, destination filtering, an admin dashboard with live revenue stats, and a token-protected Express + MongoDB API.</p>
+<p>An immersive travel platform with hotel/tour booking, destination filtering, an admin dashboard with live revenue stats, and a token-protected Express + MongoDB API + JWT + Authentication.</p>
 <p>
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
 <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" />
