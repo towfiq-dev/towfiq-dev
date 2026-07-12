@@ -23,6 +23,12 @@
 
 </div>
 
+<div align="center">
+
+📧 **Email:** [towfiqulislam017399@gmail.com](mailto:towfiqulislam017399@gmail.com) &nbsp;|&nbsp; 📞 **Phone:** [+880 1739-943577](https://wa.me/8801739943577)
+
+</div>
+
 <br>
 
 ## 👋 About Me
