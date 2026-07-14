@@ -180,55 +180,93 @@ Dynamic, live-updating features like chat systems or notifications using WebSock
 
 ## 🌟 Featured Projects
 
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
 <h3>🏠 SkillSwap</h3>
-<i>Freelancing Marketplace Platform</i>
-<p>A full-featured freelancing marketplace inspired by Fiverr/Upwork — role-based dashboards for clients, freelancers, and admins, with task posting, proposals, and Stripe-secured payments.</p>
-<p>
-<img src="https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js" />
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
-<img src="https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white" />
-</p>
-<a href="https://skill-swap-frontend-server.vercel.app">🔗 Live Demo</a> · <a href="https://github.com/towfiq-dev/skillSwap-frontend-server">📦 Source</a>
-</td>
-<td width="50%" valign="top">
+
+**Freelancing Marketplace Platform** · `Full Stack`
+
+SkillSwap is a full-featured freelancing marketplace that connects skilled professionals with clients who need work done. Inspired by platforms like Fiverr and Upwork, it enables clients to post tasks, review proposals, and pay freelancers securely — all within a single, intuitive platform. With role-based dashboards for clients, freelancers, and admins, SkillSwap delivers a transparent, efficient, and trustworthy freelancing experience.
+
+**Key Features:**
+- Role-based authentication with email/password and Google OAuth via BetterAuth
+- Task posting, browsing, and multi-criteria search & filtering system
+- Proposal submission, acceptance, and rejection workflow for clients and freelancers
+- Secure Stripe Checkout integration for seamless task payments
+- Dedicated dashboards for clients, freelancers, and admins with real-time stats
+- Deliverable submission and active project tracking for freelancers
+- Admin panel for user management (block/unblock) and platform monitoring
+- Blocked user guard with automatic session invalidation
+
+**Tech Stack:** `Next.js` `React` `TailwindCSS` `Framer Motion` `HeroUI` `MongoDB` `BetterAuth` `Node.js` `Express.js` `Stripe`
+
+🔗 [Live Demo](https://skill-swap-frontend-server.vercel.app) · 📦 [Client](https://github.com/towfiq-dev/skillSwap-frontend-server) · 🖥️ [Server](https://github.com/towfiq-dev/skillSwap-backend-server)
+
+<br>
+
+---
+
 <h3>🛒 Wanderlust</h3>
-<i>Premium Travel & Tourism Platform</i>
-<p>An immersive travel platform with hotel/tour booking, destination filtering, an admin dashboard with live revenue stats, and a token-protected Express + MongoDB API + JWT + Authentication.</p>
-<p>
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-<img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" />
-<img src="https://img.shields.io/badge/Framer_Motion-EF008F?style=flat-square&logo=framer&logoColor=white" />
-</p>
-<a href="https://wanderlust-express-js.vercel.app">🔗 Live Demo</a> · <a href="https://github.com/towfiq-dev/wanderlust-express-js">📦 Source</a>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+
+**Premium Travel & Tourism Platform** · `Full Stack`
+
+Wanderlust is an immersive travel and destination management platform crafted for modern explorers. It offers seamless hotel and tour booking, intelligent destination filtering, dynamic search capabilities, and user-driven testimonials. Designed with a stunning user experience, it simplifies travel planning and bridges the gap between travelers and their dream destinations.
+
+**Key Features:**
+- Advanced destination search with category, price-range, and rating/name sorting filters
+- Dynamic booking engine for curated tour packages with real-time reservation and cancellation
+- Secure authentication and session handling via BetterAuth with JWT/JWKS verification on the API
+- Admin dashboard with live platform stats — total destinations, bookings, and aggregated revenue
+- Full CRUD destination management panel for admins to add, edit, and remove listings
+- Personal bookings dashboard for tracking and managing user reservations
+- Featured destinations carousel and user testimonials showcase on the homepage
+- RESTful Express.js + MongoDB backend with token-protected routes and CORS-enabled API
+
+**Tech Stack:** `Next.js` `JS` `TailwindCSS` `Framer Motion` `HeroUI` `MongoDB` `BetterAuth` `Node.js` `Express.js`
+
+🔗 [Live Demo](https://wanderlust-express-js.vercel.app) · 📦 [Client](https://github.com/towfiq-dev/wanderlust-express-js) · 🖥️ [Server](https://github.com/towfiq-dev/wandelust-server)
+
+<br>
+
+---
+
 <h3>👥 CarePulse</h3>
-<i>Hospital Management & Appointment System</i>
-<p>A production-ready healthcare platform with smart doctor discovery, a real-time booking engine, and a personal dashboard tracking spend, visits, and doctor history.</p>
-<p>
-<img src="https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js" />
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
-<img src="https://img.shields.io/badge/BetterAuth-6366F1?style=flat-square" />
-</p>
-<a href="https://doctor-appointment-manager-one.vercel.app">🔗 Live Demo</a> · <a href="https://github.com/towfiq-dev/b13-a09-full-stack-web">📦 Source</a>
-</td>
-<td width="50%" valign="top">
+
+**Next-Generation Hospital Management & Appointment System** · `Full Stack`
+
+CarePulse is a comprehensive, production-ready healthcare management platform built to streamline patient-doctor interactions. It features an advanced appointment scheduling engine, interactive specialist search with multi-criteria filtering, and an intuitive hospital dashboard. Designed with absolute pixel-perfect precision, it ensures a friction-free experience for patients seeking elite medical assistance.
+
+**Key Features:**
+- Smart doctor discovery with specialty, experience, and dynamic rating/review display
+- Real-time appointment booking engine with fee calculation and appointment date tracking
+- Editable user profile management (name, phone, location, bio, avatar) synced with MongoDB
+- Personal dashboard with booking overview stats — total spend, upcoming visits, unique doctors seen
+- Full booking lifecycle management — create, update, and cancel appointments from the dashboard
+- Secure authentication via BetterAuth with JWT/JWKS verification protecting all sensitive API routes
+- Fluid micro-interactions and animated UI powered by Framer Motion and HeroUI components
+- RESTful Express.js + MongoDB backend with dedicated collections for appointments, bookings, and profiles
+
+**Tech Stack:** `Next.js` `JS` `TailwindCSS` `Framer Motion` `HeroUI` `MongoDB` `BetterAuth` `Node.js` `Express.js`
+
+🔗 [Live Demo](https://doctor-appointment-manager-one.vercel.app) · 📦 [Client](https://github.com/towfiq-dev/b13-a09-full-stack-web) · 🖥️ [Server](https://github.com/towfiq-dev/b13-a09-backend-server)
+
+<br>
+
+---
+
 <h3>💰 Payoo</h3>
-<i>Mobile Banking UI</i>
-<p>A mobile financial service (MFS) interface for digital wallet management — adding funds, cash-out, peer-to-peer transfers, and full transaction history.</p>
-<p>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
-</p>
-<a href="https://towfiq-dev.github.io/Payooo-mobile-bank">🔗 Live Demo</a> · <a href="https://github.com/towfiq-dev/Payooo-mobile-bank">📦 Source</a>
-</td>
-</tr>
-</table>
+
+**Mobile Banking UI (MFS Application)** · `Frontend / Vanilla JS`
+
+Payoo is a streamlined Mobile Financial Service (MFS) solution that simplifies digital wallet management for everyday users. The application provides a secure environment for essential financial tasks, including adding funds, cashing out, and instant peer-to-peer money transfers. It also features a comprehensive transaction history module, allowing users to monitor their spending habits and manage their digital finances with confidence and ease.
+
+**Key Features:**
+- Secure digital wallet management
+- Peer-to-peer money transfer and cash-out
+- Real-time transaction history tracking
+- Minimalist and secure login system
+
+**Tech Stack:** `HTML` `CSS` `JS` `TailwindCSS`
+
+🔗 [Live Demo](https://towfiq-dev.github.io/Payooo-mobile-bank) · 📦 [Source](https://github.com/towfiq-dev/Payooo-mobile-bank)
 
 <br>
 
