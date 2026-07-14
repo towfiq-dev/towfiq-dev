@@ -36,7 +36,7 @@
 
 I'm a **Full Stack MERN Developer**, dedicated to building clean, scalable, and production-ready web applications. My work spans the entire development lifecycle — from architecting well-structured databases and secure backend APIs with Node.js and Express, to crafting pixel-perfect, responsive frontends with React and Next.js. I approach every project with a product mindset rather than just a code mindset, paying close attention to performance, maintainability, and the small details that shape a great user experience — right down to the final animation on a button. Whether I'm designing a data model, securing an authentication flow, or fine-tuning a UI interaction, my goal is always the same: to turn ideas into reliable, real-world digital products.
 
-```javascript
+```
 const towfiqulIslam = {
   role:         "Full Stack MERN Developer",
   location:     "Dhaka, Bangladesh 🇧🇩",
@@ -335,10 +335,10 @@ Department of Youth Development, Ministry of Youth and Sports)<br>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=towfiq-dev&theme=tokyonight" width="100%"/>
 </div>
 
-<!-- <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=towfiq-dev&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=towfiq-dev&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-</div>-->
+<div align="center">
+  <img src="https://github-stats-extended.vercel.app/api?username=towfiq-dev&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" width="48%" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=towfiq-dev&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+</div>
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=towfiq-dev&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="70%" />
