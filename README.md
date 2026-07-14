@@ -8,6 +8,8 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=24&duration=2800&pause=1200&color=6C63FF&center=true&vCenter=true&width=600&lines=I+build+full-stack+web+applications;React+%2B+Next.js+%2B+Node.js+%2B+MongoDB;Turning+ideas+into+production-ready+products" alt="Typing SVG" />
 
+<div align="center">
+
 <p>
   <img src="https://img.shields.io/badge/📍_Dhaka,_Bangladesh-6C63FF?style=flat-square" />
   <img src="https://img.shields.io/badge/🎯_Open_to_Work-00D4FF?style=flat-square" />
@@ -15,17 +17,16 @@
 </p>
 
 <p>
-  <a href="https://towfiq-mern-stack-developer.vercel.app"><img src="https://img.shields.io/badge/Portfolio-0A66C2?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-  <a href="https://drive.google.com/file/d/1xGmSvv5_81TuypAt9QA7wlt5grj3vLU5/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-10b981?style=for-the-badge&logo=googledrive&logoColor=white" /></a>
+  <a href="https://towfiq-mern-stack-developer.vercel.app"><img src="https://img.shields.io/badge/🌐_Portfolio-0A66C2?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://drive.google.com/file/d/1xGmSvv5_81TuypAt9QA7wlt5grj3vLU5/view?usp=sharing"><img src="https://img.shields.io/badge/📄_Resume-10b981?style=for-the-badge&logo=googledrive&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/towfiqul-islam1"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://x.com/towfiqul6185"><img src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
 </p>
 
-</div>
-
-<div align="center">
-
-📧 **Email:** [towfiqulislam017399@gmail.com](mailto:towfiqulislam017399@gmail.com) &nbsp;|&nbsp; 📞 **Phone:** [+880 1739-943577](https://wa.me/8801739943577)
+<p>
+  <a href="mailto:towfiqulislam017399@gmail.com"><img src="https://img.shields.io/badge/towfiqulislam017399@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
+  <a href="https://wa.me/8801739943577"><img src="https://img.shields.io/badge/+880_1739--943577-25D366?style=flat-square&logo=whatsapp&logoColor=white" /></a>
+</p>
 
 </div>
 
