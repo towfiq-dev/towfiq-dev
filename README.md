@@ -182,7 +182,7 @@ Dynamic, live-updating features like chat systems or notifications using WebSock
 <br>
 
 <details>
-<summary><b>## 🌟 Featured Projects</b></summary>
+<summary><h3>🌟 Featured Projects</h3></summary>
 <br>
 <h3>🏠 SkillSwap</h3>
 
@@ -274,10 +274,8 @@ Payoo is a streamlined Mobile Financial Service (MFS) solution that simplifies d
 
 <br>
 
-</details>
-
 <details>
-<summary><b>📂 More Projects (11 more — click to expand)</b></summary>
+<summary><h3>📂 More Projects (11 more — click to expand)</h3></summary>
 <br>
 
 | Project | Description | Stack | Links |
@@ -294,6 +292,7 @@ Payoo is a streamlined Mobile Financial Service (MFS) solution that simplifies d
 | **Green Earth** — Tree Plantation | Sustainability-focused e-commerce site for browsing and purchasing tree species | HTML5, Tailwind CSS | [Demo](https://towfiq-dev.github.io/green-earth-main) · [Source](https://github.com/towfiq-dev/green-earth-main) |
 | **Job Application Tracker** | Productivity dashboard for tracking job applications, interviews, and rejections | React, Tailwind CSS | [Demo](https://towfiq-dev.github.io/PH-Job-Tracker) · [Source](https://github.com/towfiq-dev/PH-Job-Tracker) |
 
+</details>
 </details>
 
 <div align="center">
