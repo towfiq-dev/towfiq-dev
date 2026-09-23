@@ -181,8 +181,9 @@ Dynamic, live-updating features like chat systems or notifications using WebSock
 
 <br>
 
-## 🌟 Featured Projects
-
+<details>
+<summary><b>## 🌟 Featured Projects</b></summary>
+<br>
 <h3>🏠 SkillSwap</h3>
 
 **Freelancing Marketplace Platform** · `Full Stack`
@@ -272,6 +273,8 @@ Payoo is a streamlined Mobile Financial Service (MFS) solution that simplifies d
 🔗 [Live Demo](https://towfiq-dev.github.io/Payooo-mobile-bank) · 📦 [Source](https://github.com/towfiq-dev/Payooo-mobile-bank)
 
 <br>
+
+</details>
 
 <details>
 <summary><b>📂 More Projects (11 more — click to expand)</b></summary>
