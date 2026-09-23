@@ -34,7 +34,7 @@
 
 <br>
 
-## 👋 About Me
+## ![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=26&pause=1000&color=FF7B72&width=435&lines=ABOUT+ME)
 
 I'm a **Full Stack MERN Developer**, dedicated to building clean, scalable, and production-ready web applications. My work spans the entire development lifecycle — from architecting well-structured databases and secure backend APIs with Node.js and Express, to crafting pixel-perfect, responsive frontends with React and Next.js. I approach every project with a product mindset rather than just a code mindset, paying close attention to performance, maintainability, and the small details that shape a great user experience — right down to the final animation on a button. Whether I'm designing a data model, securing an authentication flow, or fine-tuning a UI interaction, my goal is always the same: to turn ideas into reliable, real-world digital products.
 
@@ -52,11 +52,11 @@ const towfiqulIslam = {
 
 <br>
 
-## 📈 Snapshot
+## ![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=26&pause=1000&color=FF7B72&width=435&lines=📈+Snapshot)
 
 <div align="center">
 
-| 15+ | 19+ | 1000+ | 2+ |
+| 15+ | 19+ | 2000+ | 2+ |
 |:---:|:---:|:---:|:---:|
 | Projects Completed | Tech Stack | GitHub Contributions | Certifications |
 
@@ -64,7 +64,7 @@ const towfiqulIslam = {
 
 <br>
 
-## ⚡ What I Do
+## ![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=26&pause=1000&color=FF7B72&width=435&lines=%F0%9F%94%A5+WHAT+I'M+UP+TO%3F)
 
 <table width="100%">
 <tr>
@@ -99,8 +99,7 @@ Clear communication, timely delivery, and business-goal-oriented development acr
 
 <br>
 
-## 🛎️ Services I Offer
-
+## ![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=26&pause=1000&color=FF7B72&width=435&lines=🛎️+Services+I+Offer)
 <table width="100%">
 <tr>
 <td width="33%" valign="top">
@@ -146,7 +145,7 @@ Dynamic, live-updating features like chat systems or notifications using WebSock
 
 <br>
 
-## 🧰 Tech Arsenal
+## ![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=24&pause=1000&color=FF7B72&width=435&lines=%F0%9F%9B%A0%EF%B8%8F+TECH+STACK)
 
 <table width="100%">
 <tr>
@@ -181,9 +180,13 @@ Dynamic, live-updating features like chat systems or notifications using WebSock
 
 <br>
 
-<details>
-<summary><h3>🌟 Featured Projects</h3></summary>
-<br>
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=24&pause=1000&color=FF7B72&width=435&lines=%F0%9F%9A%80+FEATURED+PROJECTS)
+<details> 
+  <summary>
+Explore My Work  ⤵
+  </summary>
+
+### Full Stack Projects
 <h3>🏠 SkillSwap</h3>
 
 **Freelancing Marketplace Platform** · `Full Stack`
@@ -303,7 +306,12 @@ Payoo is a streamlined Mobile Financial Service (MFS) solution that simplifies d
 
 <br>
 
-## 🎓 Certifications
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=24&pause=1000&color=FF7B72&width=435&lines=%F0%9F%8F%86+CERTIFICATIONS)
+
+<details>
+<summary>
+View Certifications ⤵
+</summary>
 
 <table width="100%">
 <tr>
@@ -321,16 +329,22 @@ Department of Youth Development, Ministry of Youth and Sports)<br>
 </td>
 </tr>
 </table>
+</details>
 <br>
 
-## 🎒 Education
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=24&pause=1000&color=FF7B72&width=435&lines=%F0%9F%8E%93+EDUCATION)
+
+<details>
+<summary>
+View Academic Background ⤵
+</summary>
 
 | Level | Institution | Year | Result |
 |---|---|---|---|
 | **BSS (Running)** | National University | 2023 — Present (3rd Year) | In progress |
 | **HSC** | Raipura Govt. College, Narsingdi | 2022 | GPA 4.17 / 5.00 |
 | **SSC** | Seraj Nagar M.A. Pilot High School, Narsingdi | 2020 | GPA 4.22 / 5.00 |
-
+</details>
 <br>
 
 ## 📊 GitHub Stats
