@@ -335,6 +335,12 @@ Department of Youth Development, Ministry of Youth and Sports)<br>
 
 ## 📊 GitHub Stats
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/towfiq-dev/towfiq-dev/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/towfiq-dev/towfiq-dev/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub Snake Animation" src="https://raw.githubusercontent.com/towfiq-dev/towfiq-dev/output/github-contribution-grid-snake.svg">
+</picture>
+
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=towfiq-dev&theme=tokyonight" width="100%"/>
 </div>
