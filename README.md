@@ -325,7 +325,7 @@ Department of Youth Development, Ministry of Youth and Sports)<br>
 
 | Level | Institution | Year | Result |
 |---|---|---|---|
-| **B.Sc (Running)** | National University | 2022 — Present (3rd Year) | In progress |
+| **BSS (Running)** | National University | 2023 — Present (3rd Year) | In progress |
 | **HSC** | Raipura Govt. College, Narsingdi | 2022 | GPA 4.17 / 5.00 |
 | **SSC** | Seraj Nagar M.A. Pilot High School, Narsingdi | 2020 | GPA 4.22 / 5.00 |
 
